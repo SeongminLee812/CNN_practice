@@ -1,0 +1,6 @@
+names:
+- phone
+- wallet
+nc: 2
+train: lost_article-1/train/images
+val: lost_article-1/valid/images
